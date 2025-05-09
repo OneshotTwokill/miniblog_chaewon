@@ -2,7 +2,7 @@
   "name": "mini-blog",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://OneshotTwokill.github.io/mini-blog-2025",
+  "homepage": "https://OneshotTwokill.github.io/miniblog_chaewon",
   "type": "module",
   "scripts": {
     "dev": "vite",

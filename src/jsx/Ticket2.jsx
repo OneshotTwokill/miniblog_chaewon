@@ -54,7 +54,7 @@ function TicketWrapper2(props) {
       <div style={{ padding: '0px 12px', height:'100%' ,display:'flex', flexDirection:'column', gap:'0px'}}>
 
         <div style={{display:'flex', alignItems: 'center'}}>
-      <img src='./public/Plane.svg' alt="Plane icon" style={{
+      <img src='/Plane.svg' alt="Plane icon" style={{
           display: 'block',
           marginLeft: 'auto',
           marginBottom: '0px',

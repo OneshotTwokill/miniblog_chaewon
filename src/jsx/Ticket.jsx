@@ -147,7 +147,7 @@ function TicketWrapper(props) {
           <StyledYear>{year || '2025'}</StyledYear>
 
           <img
-            src='./public/Plane.svg'
+            src='/Plane.svg'
             alt="Plane icon"
             style={{
               display: 'block',
@@ -166,7 +166,7 @@ function TicketWrapper(props) {
             <StyledPassenger>PASSENGER<br />{passenger || '@di_ed_ie'}</StyledPassenger>
           </DatePassengerWrapper>
 
-          <QRCode src="./public/qrcode.svg" alt="QR Code" />
+          <QRCode src="/qrcode.svg" alt="QR Code" />
         </div>
 
         <div className='HoverContent'>

@@ -48,10 +48,10 @@ function MainPage(props){
             <div style={{
                 display:'flex', alignItems:'center'
                 }}>
-                <img src="./public/gridIcon1.png"
+                <img src="/gridIcon1.png"
                 style={{ cursor: 'pointer', opacity: layoutType === 'grid' ? 1 : 0.5 }}
     onClick={() => setLayoutType('grid')}></img>
-                <img src="./public/gridIcon2.png"
+                <img src="/gridIcon2.png"
                  style={{ cursor: 'pointer', opacity: layoutType === 'list' ? 1 : 0.5 }}
                  onClick={() => setLayoutType('list')}></img>
             </div>

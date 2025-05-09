@@ -116,7 +116,7 @@ body{
   height: 50px;
   border: 1px solid #CFCFCF;
   background-color: #E7E7E7;
-  background-image: url('/public/Image.png');
+  background-image: url('/Image.png');
   background-size: 26px 26px;
   background-repeat: no-repeat;
   background-position: center;
